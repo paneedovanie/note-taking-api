@@ -59,6 +59,6 @@ The Note Taking API is a server-side application designed to manage notes. It of
     ```
     npm serve 
     ```
-##### Assumptions
+## Assumptions
 1. Can be integrated to any app which supports accessing the internet
 2. This application is scalable because it uses a modular structure
